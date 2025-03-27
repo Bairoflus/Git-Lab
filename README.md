@@ -19,7 +19,7 @@ print(c)
 - [ ] Introduce myself to the world
 
 ### Images
-
+![Screenshot of Hollow Knight](https://github.com/Bairoflus/Git-Lab/blob/main/Hollow%20Knight.avif) 
 ## References
 [Github documentation](https://docs.github.com/en)
 
