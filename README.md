@@ -20,7 +20,7 @@ print(c)
 
 ### Images
 ![Screenshot of Hollow Knight](https://github.com/Bairoflus/Git-Lab/blob/main/Hollow%20Knight.avif) 
-![Screenshot of Hollow Knight Logo](./Hollow_Knight_Logo.webp)
+![Screenshot of Hollow Knight Logo](./Hollow_Knight_logo.webp)
 ## References
 [Github documentation](https://docs.github.com/en)
 
