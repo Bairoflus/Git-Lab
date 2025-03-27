@@ -4,6 +4,20 @@
 Git practice laboratory where Im going to learn how to use Git and Github
 
 ## Contents
+
+### Examples
+```python 
+a = 1
+b = 2
+c = a+b
+print(c)
+```
+
+### Lists
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ### Images
 
 ## References
