@@ -1,4 +1,4 @@
-# Git and Github Lab
+# Git and Github Laboratory
 
 Git practice laboratory
 
